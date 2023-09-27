@@ -1,0 +1,8 @@
+ls--> commands through sdk
+list----> gcs
+ls----> gsutil ls
+mkdir---> gsutil mb gs://bukcet_name
+cp-----> gsutil cp source_path target_path
+mv----> gsutil mv source_path target_path
+cat---->ustil cat filename/filepath
+   
